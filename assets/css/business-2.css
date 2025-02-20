@@ -312,7 +312,7 @@ select:visited {
 }
 
 .pr3-title-area span {
-	color: #497efd;
+	color: #013096;
 	font-weight: 700;
 	font-size: 18px;
 	margin-bottom: 6px;
@@ -498,7 +498,7 @@ select:visited {
 	transform: translateY(-50%);
 	width: 1px;
 	height: 20px;
-	background-color: #497efd;
+	background-color: #013096;
 	z-index: 2;
 }
 
@@ -1097,7 +1097,7 @@ select:visited {
 }
 
 .pr3-about-right .pr3-about-btns .pr3-contact-btn {
-	border: 2px solid #497efd;
+	border: 2px solid #013096;
 	color: #1a0b60;
 	width: 168px;
 	height: 53px;
@@ -1816,7 +1816,7 @@ select:visited {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	border: 2px solid #497efd;
+	border: 2px solid #013096;
 	color: #1a0b60;
 	font-family: "Lexend", sans-serif;
 	font-weight: 600;
@@ -1952,10 +1952,10 @@ select:visited {
 	width: 80px;
 	height: 80px;
 	border-radius: 50%;
-	background-image: -webkit-gradient(linear, left top, left bottom, from(#497efd), to(#f5f8ff));
-	background-image: -webkit-linear-gradient(top, #497efd, #f5f8ff);
-	background-image: -o-linear-gradient(top, #497efd, #f5f8ff);
-	background-image: linear-gradient(to bottom, #497efd, #f5f8ff);
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#013096), to(#f5f8ff));
+	background-image: -webkit-linear-gradient(top, #013096, #f5f8ff);
+	background-image: -o-linear-gradient(top, #013096, #f5f8ff);
+	background-image: linear-gradient(to bottom, #013096, #f5f8ff);
 	padding: 2px;
 	overflow: hidden;
 }
