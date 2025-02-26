@@ -2380,6 +2380,10 @@ select:visited {
 	-webkit-box-shadow: 0px 8px 13px 0px rgba(135, 135, 135, 0.2);
 	box-shadow: 0px 8px 13px 0px rgba(135, 135, 135, 0.2);
 	text-align: center;
+	min-height: 170px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .pr3-brand-slider .pr3-brand-single img {
